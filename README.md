@@ -27,4 +27,9 @@ pytest
 ## ✍️ Yazar
 
 Kodland
+
+
+#Ali'nin şifre programı.
+
 # Gokhanın sifre programı
+
