@@ -28,4 +28,8 @@ pytest
 
 Kodland
 
+
 #Ali'nin şifre programı.
+
+# Gokhanın sifre programı
+
