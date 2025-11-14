@@ -28,3 +28,7 @@ pytest
 
 Kodland
 # Gokhanın sifre programı
+
+## Yazaröğrencisi
+
+# Ali İhsan
