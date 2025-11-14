@@ -26,5 +26,5 @@ pytest
 
 ## ✍️ Yazar
 
-Kodland
-# Gokhanın sifre programı
+Demir Kaan
+# Demir yazacağını yazdı
