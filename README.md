@@ -28,3 +28,4 @@ pytest
 
 Kodland
 # Gokhanın sifre programı
+# Berkayın rastgele şifre programı
