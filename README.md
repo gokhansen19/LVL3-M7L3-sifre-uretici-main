@@ -23,8 +23,6 @@ Daha sonra testleri proje dizininin kök klasöründen şu komutla çalıştıra
 ```bash
 pytest
 ```
-
-## ✍️ Yazar
-
-Demir Kaan
-# Demir yazacağını yazdı
+##  eswinin intenet proplemi var
+## ufuk derse geç katılıyor 
+## yusufun tavuklu çorapqarı hala popülerliğini koruyor
