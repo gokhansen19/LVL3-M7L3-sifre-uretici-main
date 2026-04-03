@@ -24,7 +24,4 @@ Daha sonra testleri proje dizininin kök klasöründen şu komutla çalıştıra
 pytest
 ```
 
-## ✍️ Yazar
-
-Demir Kaan
-# Demir yazacağını yazdı
+## bugün remote ortamında git  öğreniyoruz
