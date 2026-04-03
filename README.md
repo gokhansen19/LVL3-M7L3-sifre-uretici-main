@@ -25,3 +25,5 @@ pytest
 ```
 
 ## bugün remote ortamında git  öğreniyoruz
+
+ali vel,i konya
